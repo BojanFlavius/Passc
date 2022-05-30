@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<students>
+    <student>
+        <name>Andrei</name>
+        <numar>1</numar>
+        <medie>7</medie>
+    </student>
+
+    <student>
+        <name>Maria</name>
+        <numar>2</numar>
+        <medie>8</medie>
+    </student>
+
+    <student>
+        <name>Alexandra</name>
+        <numar>3</numar>
+        <medie>9</medie>
+    </student>
+
+    <student>
+        <name>Paul</name>
+        <numar>4</numar>
+        <medie>9</medie>
+    </student>
+
+    <student>
+        <name>Nathan</name>
+        <numar>5</numar>
+        <medie>8</medie>
+    </student>
+</students>
